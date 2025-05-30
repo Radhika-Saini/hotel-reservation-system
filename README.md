@@ -84,7 +84,7 @@ npm install
 node server.js
 # Server will run on http://localhost:5000
 
-###  🔧 Frontend Setup
+### 🔧 Frontend Setup
 
 cd frontend
 npm install
