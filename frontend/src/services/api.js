@@ -1,7 +1,6 @@
 //const BASE_URL = 'http://localhost:5000/api/book';
 //To Deploy
-const BASE_URL = 'https://hotel-backend.onrender.com/api/book';
-
+const BASE_URL = 'https://hotel-backend-lhgv.onrender.com/api/book';
 
 export const getHotel = async () => {
   const res = await fetch(BASE_URL);
