@@ -1,0 +1,36 @@
+body {
+  font-family: Arial;
+  margin: 0;
+  padding: 1rem;
+  background-color: #f8f8f8;
+}
+.container {
+  max-width: 800px;
+  margin: auto;
+  text-align: center;
+}
+.controls input {
+  width: 50px;
+  margin-right: 10px;
+}
+.controls button {
+  margin: 0 5px;
+}
+.grid .floor {
+  margin: 1rem 0;
+}
+.rooms {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  flex-wrap: wrap;
+}
+.room {
+  width: 50px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #e0ffe0;
+}
+.room.occupied {
+  background-color: #ff9999;
+}
