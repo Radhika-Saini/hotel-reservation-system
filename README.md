@@ -7,8 +7,6 @@ A full-stack application to visualize and book hotel rooms optimally based on pr
 - 🔗 Frontend (React): ([https://your-netlify-url.netlify.app](https://hotel-reservartion-system.netlify.app/))
 - 🔗 Backend (Render): ([https://your-backend-subdomain.onrender.com](https://hotel-backend-lhgv.onrender.com))
 
-> Replace the above links with your actual deployed URLs.
-
 ---
 
 ## 📌 Features
