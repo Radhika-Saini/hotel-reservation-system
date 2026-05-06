@@ -6,4 +6,5 @@ for (let floor = 1; floor <= 10; floor++) {
     hotel[roomNumber] = { occupied: false };
   }
 }
+
 module.exports = hotel;
